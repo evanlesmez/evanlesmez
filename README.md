@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanlesmez
-- 👀 I’m interested in compassion for animals, entrepeneurship, and games
-- 🌱 I’m currently learning godot, scheme, and rust
-- 💞️ I’m looking to collaborate on gamifying veganism
+- 👀 I’m interested in compassion for animals, entrepeneurship, games, and deep learning
+- 🌱 I’m currently learning fastai, godot, scheme, rust
+- 💞️ I’m looking to collaborate on gamifying going plant-based
 - 📫 How to reach me https://poly.me/evan_lesmez/contact
 
 <!---
