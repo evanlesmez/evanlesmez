@@ -2,7 +2,7 @@
 - 👀 I’m interested in compassion for animals, entrepeneurship, games, and deep learning
 - 🌱 I’m currently learning fastai, godot, scheme, rust
 - 💞️ I’m looking to collaborate on gamifying going plant-based
-- 📫 How to reach me https://poly.me/evan_lesmez/contact
+- 📫 How to reach me https://evanlesmez.com
 
 <!---
 evanlesmez/evanlesmez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
