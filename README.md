@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @evanlesmez
-- 👀 I’m interested in animal activism, veganism, games, and deep learning
-- 🌱 I’m currently learning fastai, godot, scheme, rust
+- 👀 I’m interested in animal activism, veganism, games, deep learning, Linux and too many more things
+- 🌱 I’m currently learning abpout Godot, scheme, and FastAI
 - 💞️ I’m looking to collaborate on making indie games
